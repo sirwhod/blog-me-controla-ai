@@ -11,7 +11,7 @@ export const Header = () => {
           <Link href="/">Logo</Link>
 
           <nav className="flex items-center gap-6">
-          <ActiveLink href="/">Início</ActiveLink>Add commentMore actions
+          <ActiveLink href="/">Início</ActiveLink>
             <ActiveLink href="/blog">Blog</ActiveLink>
             <Button variant="secondary" asChild>
               <Link href="/comecar">Começar</Link>
